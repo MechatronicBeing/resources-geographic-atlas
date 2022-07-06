@@ -1,0 +1,3 @@
+Site : http://ian.macky.net/pat/
+Author : Ian Macky
+License : "Maps on this site, demonstrating PAT, are all public domain"
